@@ -81,13 +81,6 @@ CRAFT-YOUR-CAREER/
 ├── package.json
 └── README.md
 ```
-
----
-
-## Screenshots
-
-> Resume builder with real-time preview and theme customization.
-
 ---
 
 ## What I Learned
